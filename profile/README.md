@@ -22,6 +22,10 @@ The control plane is one reactive Java service, and everything beyond invocation
 autoscaling, concurrency control, offloading, each deployment backend) is a module you choose at
 build time.
 
+NanoFaaS is developed at the [DatAI](https://unimib-datai.github.io/datai-website/) lab of the
+[Department of Informatics, Systems and Communication (DISCo)](https://www.disco.unimib.it/en),
+[University of Milano-Bicocca](https://www.unimib.it/).
+
 ### The platform
 
 - [**nanofaas**](https://github.com/Nanofaas/nanofaas): control plane, CLI, function SDKs for Java, Python, Go, JavaScript and Rust, Helm chart
